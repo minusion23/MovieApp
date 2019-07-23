@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Movie App, Stage 1</string>
+    <string name="internet_error">There seems to be no internet connection. Please turn on the internet and refresh the app</string>
+    <string name="frame_item_image_descr">moviePoster</string>
+    <string name="favorite_button">Mark as Favorite</string>
+    <string name="title_field_tools">Test Title</string>
+    <string name="rating_toolstext">Rating</string>
+    <string name="trailers_header">Trailers :</string>
+    <string name="trailers_header_tool">Trailers</string>
+    <string name="posterimage">PosterImage</string>
+    <string name="URL_error_string">Error with creating URL</string>
+    <string name="sort_by_popularity">Sort by popularity</string>
+    <string name="sort_by_rating">Sort by rating</string>
+    <string name="reviews">Reviews:</string>
+    <string name="trailerTVbase">Trailer \u0020</string>
+    <string name="menu_favorites">Favorites</string>
+    <string name="back_to_favorites">Back to favorites</string>
+    <string name="FavoritedButton">Favorited</string>
+</resources>

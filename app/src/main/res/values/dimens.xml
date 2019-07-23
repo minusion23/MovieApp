@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="column_width_grid">150dp</dimen>
+    <dimen name="frame_item_width">200dp</dimen>
+    <dimen name="frame_item_height">200dp</dimen>
+    <dimen name="button_width">100dp</dimen>
+    <dimen name="small_margin">8dp</dimen>
+    <dimen name="medium_margin">16dp</dimen>
+    <dimen name="poster_image_height">175dp</dimen>
+    <dimen name="big_margin">24dp</dimen>
+    <dimen name="medium_text_size">16sp</dimen>
+    <dimen name="red_view_height">1dp</dimen>
+    <dimen name="big_text_size">16sp</dimen>
+    <dimen name="bigger_margin">16dp</dimen>
+    <dimen name="biggest_margin">32dp</dimen>
+    <dimen name="trailer_recview_height">64dp</dimen>
+</resources>
